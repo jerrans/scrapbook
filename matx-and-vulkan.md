@@ -20,6 +20,9 @@ https://github.com/materialx/MaterialX/blob/master/documents/DeveloperGuide/Shad
 You can find a scrapbook example implementation of generating shaders here:
 https://github.com/jerrans/matx-to-glsl/blob/master/main.cpp
 
+This is using the Autodesk branch of MaterialX currently for building variables into layout blocks:
+https://github.com/autodesk-forks/MaterialX/tree/adsk_contrib/dev
+
 Once you have intialized MaterialX you want to find the appropriate nodes to generate shader from:
 ```
 // generate shaders
