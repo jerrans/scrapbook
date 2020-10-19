@@ -1,5 +1,8 @@
 ![Vulkan<3MaterialX](vulkan-mtlx-logo.png)
-The goal here is a flexible way to load MaterialX shaders. The workflow is:
+
+The goal here is a flexible way to load MaterialX shaders in a Vulkan application.
+
+The workflow is:
 
 * Load MaterialX document
 * Generate and Compile Shaders
