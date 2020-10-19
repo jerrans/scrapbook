@@ -1,4 +1,4 @@
-# Vulkan + MaterialX
+![Vulkan<3MaterialX](vulkan-mtlx-logo.png)
 The goal here is a flexible way to load MaterialX shaders. The workflow is:
 
 * Load MaterialX document
